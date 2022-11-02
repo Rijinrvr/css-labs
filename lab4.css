@@ -1,0 +1,94 @@
+.back{
+    border: 3px solid black;
+    height: 800px;
+    width: 100%;
+}
+.table{
+    position: relative;
+    top: 271px;
+    left: 151px;
+}
+
+table,td,th{
+    border: 1px solid;
+    color: rgb(0, 0, 0); 
+border-collapse: collapse;  
+
+
+}
+td{
+    height: 20px;
+}
+th{
+    width: 100px;
+}
+td{
+    width: 217px;
+    height: 59px;
+    text-align: center;
+}
+.search{
+    position: relative;
+    top:208px;
+    width: 199px;
+    height: 36px;
+    left: 1479px;
+}
+.head{
+    position: relative;
+    left: 850px;
+    top: 241px;
+    font-size: larger;
+    
+  }
+.detail{
+
+font-weight: 700;
+}
+.first{
+    position:relative;
+    top: 277px;
+    left: 157px;
+    font-size: larger;
+
+}
+.total{
+    position: relative;
+    top: -116px;
+    left: 30px;
+}
+.p{
+    position: relative;
+    top: 247x;
+    left: 5px;
+}
+.last{
+    position: relative;
+    top: 247px;
+    left: 1471px;
+    
+    
+}
+
+.previous{
+    text-decoration: none;
+    color: #000;
+    
+}
+.num{
+    text-decoration: none;
+    color: #000;
+    border: 10px;
+    border-radius: 43px;
+    width: 123px;
+    height: 30px;
+    background-color:white;
+    cursor: pointer;
+}
+.num:hover{
+    background-color: aqua;
+}
+.next{
+    text-decoration: none;
+    color: #000;
+}
